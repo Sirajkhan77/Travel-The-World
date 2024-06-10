@@ -39,7 +39,7 @@
   display: none;
 }
 
-.siraj{
+.rukhenoor{
   display:  flex;
   align-items: center;
   justify-content: center;
@@ -57,4 +57,10 @@
   filter: grayscale(0);
   cursor: pointer;
   transform: scale(1.1);
+}
+
+
+.right-banner a{
+  color: white;
+  font-size: 2rem;
 }

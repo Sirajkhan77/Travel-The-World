@@ -486,7 +486,7 @@ h1, h2, h3{
     font-weight: 700;
 }
 
-.banner .right-banner .btn-siraj{
+.banner .right-banner{
     text-align: center;
     display: inline-block;
     font-weight: 700;
@@ -501,9 +501,7 @@ h1, h2, h3{
     color: white;
     transition:.8s ease all ;
 }
-.banner .right-banner .btn-siraj:hover{
-    background: #b92430;
-}   
+
 
 
 
@@ -789,8 +787,8 @@ width: 100%;
         font-size: 54.7%;
     }
 
-    .textbox .siraj-pak,
-    .textbox .khan-uk{
+    .textbox .casual,
+    .textbox .cakes{
         margin: 0;
     }
     
